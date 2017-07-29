@@ -1,0 +1,19 @@
+{
+  "name": "message_bus",
+  "version": "2.0.2",
+  "description": "A message bus for rack",
+  "main": "assets/message-bus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSaffron/message_bus.git"
+  },
+  "author": "Sam Saffron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamSaffron/message_bus/issues"
+  },
+  "homepage": "https://github.com/SamSaffron/message_bus#readme"
+}
